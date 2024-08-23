@@ -2,7 +2,7 @@
 ![Screenshot 2024-07-17 013556](https://github.com/user-attachments/assets/a01b6785-e338-43df-a5ff-f95633f5168e)
 
 ## Dashboard Link :
-https://app.powerbi.com/groups/me/reports/741f1191-abfb-4a43-beaf-5fb0bbc3a977/cb20746e83dc170ca517?experience=power-bi&bookmarkGuid=47783e82e8d3d69e247e
+https://tinyurl.com/2d6sj2ta
 
 ## Problem Statement
 - Objective: The purpose of this analysis is to create a dashboard in Power BI for Dallas City of Learning that reflects all relevant metrics to:
@@ -70,7 +70,8 @@ After the dataset was cleaned and transformed, it was ready to be modeled. I cre
 ![DataModeling-DallasCityofLearning](https://github.com/user-attachments/assets/fa14ca2d-a6be-463f-b19a-60c59f7aaa99)
 
 ## Data Visualization
-![CallCenter-Dashboard](https://github.com/s-narmada/Call-Center-Analysis/assets/58018941/72943069-d1ba-469b-8a96-ac066fa8a386)
+https://tinyurl.com/2d6sj2ta
+
 Data visualization for the datasets was done in Microsoft Power BI Desktop and designed in PowerPoint, the dashboard includes:
 - One home page
 - 10 analysis pages
